@@ -12,7 +12,7 @@
 	"developer": "RGC Exists",
 	"description": "Lets you press a button to either turn CBF on or off without telling you which it is, to see if it's placebo effect for you or not.",
 	"links": { "source": "https://github.com/rgc-exists/CBF-Placebo-Checker" },
-	"tags": [ "offline", "universal" ],
+	"tags": [ "offline", "universal", "joke" ],
 	"resources": {
 		"sprites": [
 			"resources/placebo_cbf_logo.png"
