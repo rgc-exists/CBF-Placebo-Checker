@@ -1,0 +1,23 @@
+{
+	"geode": "4.5.0",
+	"gd": {
+		"win": "2.2074",
+		"android": "2.2074",
+		"mac": "2.2074",
+		"ios": "2.2074"
+	},
+	"id": "rgc_exists.cbf_placebo_checker",
+	"name": "CBF Placebo Checker",
+	"version": "v1.0.0",
+	"developer": "RGC Exists",
+	"description": "Lets you press a button to either turn CBF on or off without telling you which it is, to see if it's placebo effect for you or not.",
+	"resources": {
+		"sprites": [
+			"resources/placebo_cbf_logo.png"
+		]
+	},
+	"dependencies": {
+		"syzzi.click_between_frames": ">=v1.4.6",
+		"geode.node-ids": ">=v1.20.1"
+	}
+}
