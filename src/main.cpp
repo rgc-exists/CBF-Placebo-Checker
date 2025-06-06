@@ -42,7 +42,7 @@ class $modify(MenuLayerHook, MenuLayer) {
 			menu_selector(MenuLayerHook::buttonPressed)
 		);
 
-		auto menu = this->getChildByID("side-menu");
+		auto menu = this->getChildByID("right-side-menu");
 		menu->addChild(myButton);
 
 		menu->updateLayout();

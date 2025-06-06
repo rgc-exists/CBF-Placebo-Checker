@@ -8,7 +8,7 @@
 	},
 	"id": "rgc_exists.cbf_placebo_checker",
 	"name": "CBF Placebo Checker",
-	"version": "v1.0.0",
+	"version": "v1.0.1",
 	"developer": "RGC Exists",
 	"description": "Lets you press a button to either turn CBF on or off without telling you which it is, to see if it's placebo effect for you or not.",
 	"links": { "source": "https://github.com/rgc-exists/CBF-Placebo-Checker" },
@@ -19,7 +19,6 @@
 		]
 	},
 	"dependencies": {
-		"syzzi.click_between_frames": ">=v1.4.6",
-		"geode.node-ids": ">=v1.20.1"
+		"syzzi.click_between_frames": ">=v1.4.6"
 	}
 }
